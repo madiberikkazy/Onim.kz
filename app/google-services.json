@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798911614472",
+    "project_id": "zhemshop-aa75e",
+    "storage_bucket": "zhemshop-aa75e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798911614472:android:630531d81b17113d2d4bbd",
+        "android_client_info": {
+          "package_name": "com.example.zhem_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798911614472-3c9loekhn40gkouc2td0cbdcq7kbg1g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiQtljOnVsuVMuuaTsDmDthiDEpEa-PsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798911614472-3c9loekhn40gkouc2td0cbdcq7kbg1g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
